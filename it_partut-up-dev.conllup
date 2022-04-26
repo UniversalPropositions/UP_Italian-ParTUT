@@ -1,0 +1,3807 @@
+# global.columns = ID UP:PRED UP:ARGHEADS UP:ARGSPANS
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-2
+# sent_id = it_partut-ud-2
+# text = L'asso..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	be.01	A1:2|AM-NEG:13|A2:16	A1:2-4|AM-NEG:13-13|A2:16-16
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	provide.01	A0:2|AM-NEG:19|A1:21	A0:2-12|AM-NEG:19-19|A1:21-24
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-7
+# sent_id = it_partut-ud-7
+# text = L'oper..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	_	_
+9	make.02	A1:2|A2:11	A1:2-2|A2:11-11
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-12
+# sent_id = it_partut-ud-12
+# text = 1. Def..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-27
+# sent_id = it_partut-ud-27
+# text = 4. Res..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-49
+# sent_id = it_partut-ud-49
+# text = 7. Ris..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-72
+# sent_id = it_partut-ud-72
+# text = Avete ..........
+1	_	_	_
+2	ask.02	A0:1|A1:5	A0:1-1|A1:5-8
+3	_	_	_
+4	_	_	_
+5	hold.04	A1:7|AM-TMP:14	A1:7-7|AM-TMP:12-14
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-85
+# sent_id = it_partut-ud-85
+# text = La rel..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	be.01	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	introduce.02	A1:35	A1:35-37
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40-41	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+46	_	_	_
+47	_	_	_
+48	_	_	_
+49	_	_	_
+50	achieve.01	A0:45|R-A0:46|A1:53	A0:45-45|R-A0:46-46|A1:53-57
+51	_	_	_
+52	_	_	_
+53	_	_	_
+54	_	_	_
+55	_	_	_
+56	_	_	_
+57-58	_	_	_
+57	_	_	_
+58	_	_	_
+59	_	_	_
+60	_	_	_
+61	_	_	_
+62	_	_	_
+63	_	_	_
+64-65	_	_	_
+64	_	_	_
+65	_	_	_
+66	_	_	_
+67	_	_	_
+68	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-118
+# sent_id = it_partut-ud-118
+# text = Onorev..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	check.01	A1:9	A1:8-9
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-179
+# sent_id = it_partut-ud-179
+# text = Vorrei..........
+1	let.01	AM-TMP:2	AM-TMP:2-3
+2	_	_	_
+3-4	_	_	_
+3	turn.01	A1:8	A1:8-8
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-264
+# sent_id = it_partut-ud-264
+# text = Pur sa..........
+1	_	_	_
+2	know.01	A1:10	A1:10-11
+3	_	_	_
+4	_	_	_
+5	be.01	A1:4|AM-ADV:6|A2:10	A1:4-4|AM-ADV:6-6|A2:10-10
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	urge.01	A0:16|A1:19	A0:16-16|A1:19-19
+18	_	_	_
+19	vote.01	A1:21	A1:21-21
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-266
+# sent_id = it_partut-ud-266
+# text = E' la ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	speak.01	AM-TMP:4|AM-LOC:8	AM-TMP:3-4|AM-LOC:7-8
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	admit.01	AM-MOD:10|A1:15	AM-MOD:10-10|A1:13-15
+12	_	_	_
+13	be.01	A2:15	A2:15-15
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	happen.01	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-285
+# sent_id = it_partut-ud-285
+# text = Le con..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	vary.01	A1:2|AM-EXT:5|A3:8	A1:2-3|AM-EXT:5-5|A3:6-8
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-291
+# sent_id = it_partut-ud-291
+# text = Il col..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	prepare.01	A0:3|A1:10|AM-CAU:32	A0:2-3|A1:10-10|AM-CAU:30-33
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	be.01	AM-NEG:29	AM-NEG:29-29
+31	be.01	AM-NEG:29	AM-NEG:29-29
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-294
+# sent_id = it_partut-ud-294
+# text = Signor..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	congratulate.01	AM-DIS:2|A0:4|AM-TMP:6|A1:10|A2:13	AM-DIS:2-2|A0:4-4|AM-TMP:6-6|A1:9-10|A2:11-14
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	complete.01	A0:20|R-A0:21|AM-MNR:27|A1:31	A0:20-20|R-A0:21-21|AM-MNR:26-27|A1:31-31
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	hold.04	A1:31|R-A1:32|AM-TMP:37	A1:31-31|R-A1:32-32|AM-TMP:37-37
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38-39	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-341
+# sent_id = it_partut-ud-341
+# text = Non do..........
+1	_	_	_
+2	_	_	_
+3	forget.01	AM-NEG:1|AM-MOD:2|A1:8	AM-NEG:1-1|AM-MOD:2-2|A1:6-13
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	account.01	A1:6	A1:6-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-374
+# sent_id = it_partut-ud-374
+# text = Adesso..........
+1	_	_	_
+2	be.01	AM-TMP:1|AM-TMP:3|A2:6	AM-TMP:1-1|AM-TMP:3-3|A2:6-6
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-382
+# sent_id = it_partut-ud-382
+# text = Ci opp..........
+1	_	_	_
+2	oppose.01	A0:1|A1:6	A0:1-1|A1:6-12
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	reduce.01	A1:26	A1:26-26
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	slow_down.03	A1:32	A1:32-33
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36-37	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-409
+# sent_id = it_partut-ud-409
+# text = I fond..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	play.02	A0:2|A1:7	A0:1-3|A1:7-8
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28-29	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33-34	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38-39	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43-44	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+46	_	_	_
+47	_	_	_
+48	_	_	_
+49	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-434
+# sent_id = it_partut-ud-434
+# text = come a..........
+1	_	_	_
+2	articulate.01	A1:4|A2:10	A1:4-4|A2:10-10
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-444
+# sent_id = it_partut-ud-444
+# text = Per gl..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	be.01	AM-ADV:3	AM-ADV:3-3
+15	_	_	_
+16-17	_	_	_
+16	deepen.01	A1:20	A1:20-20
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-465
+# sent_id = it_partut-ud-465
+# text = Inoltr..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	decide.01	A1:6	A1:6-11
+5	_	_	_
+6	use.01	A1:7|A0:10	A1:7-7|A0:10-10
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	be.01	A2:17	A2:17-17
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	pay.01	A0:17	A0:17-17
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31-32	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39-40	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-485
+# sent_id = it_partut-ud-485
+# text = Per re..........
+1	_	_	_
+2-3	_	_	_
+2	record.01	A1:3	A1:3-3
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	include.01	AM-PRP:2|A1:12	AM-PRP:1-2|A1:12-12
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-506
+# sent_id = it_partut-ud-506
+# text = Inserz..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-513
+# sent_id = it_partut-ud-513
+# text = Approf..........
+1	deepen.01	A1:3	A1:3-3
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-531
+# sent_id = it_partut-ud-531
+# text = Tasso ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	come.03	A1:10|A2:14	A1:10-10|A2:14-14
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-610
+# sent_id = it_partut-ud-610
+# text = (21) I..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	consume.01	A0:5|R-A0:6|A1:8	A0:4-5|R-A0:6-6|A1:8-8
+8	_	_	_
+9	_	_	_
+10	comply.01	A0:5|R-A0:6|A1:13	A0:4-5|R-A0:6-6|A1:13-14
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	establish.01	A1:16|AM-LOC:21	A1:16-17|AM-LOC:21-21
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	be.01	A1:5|AM-MOD:28	A1:5-10|AM-MOD:28-28
+30	_	_	_
+31-32	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36-37	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41-42	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	allow.01	A1:48	A1:48-49
+46	_	_	_
+47	_	_	_
+48	_	_	_
+49-50	_	_	_
+49	_	_	_
+50	_	_	_
+51	_	_	_
+52	_	_	_
+53	_	_	_
+54	_	_	_
+55	_	_	_
+56	_	_	_
+57	_	_	_
+58	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-724
+# sent_id = it_partut-ud-724
+# text = uno de..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	bring.01	A0:1|A2:9	A0:1-2|A2:9-9
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-739
+# sent_id = it_partut-ud-739
+# text = Consid..........
+1	give.01	A1:29	A1:29-29
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	be.01	A1:4	A1:4-5
+28	_	_	_
+29	_	_	_
+30-31	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34-35	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38-39	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41-42	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-771
+# sent_id = it_partut-ud-771
+# text = Ogni i..........
+1	_	_	_
+2	_	_	_
+3	have.03	A0:2|A1:4	A0:1-2|A1:4-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-828
+# sent_id = it_partut-ud-828
+# text = E' que..........
+1	be.01	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-845
+# sent_id = it_partut-ud-845
+# text = E qual..........
+1	_	_	_
+2	_	_	_
+3	be.01	A2:2	A2:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-853
+# sent_id = it_partut-ud-853
+# text = Ovviam..........
+1	_	_	_
+2	_	_	_
+3	be.01	AM-DIS:1|A1:4	AM-DIS:1-1|A1:4-4
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-871
+# sent_id = it_partut-ud-871
+# text = Amo le..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	save.02	A1:8	A1:8-8
+7	_	_	_
+8	_	_	_
+9	be.01	A1:6|AM-ADV:10|A2:13	A1:6-6|AM-ADV:10-10|A2:13-13
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-872
+# sent_id = it_partut-ud-872
+# text = Sappia..........
+1	know.01	A1:8	A1:5-8
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	be.01	A1:5|A2:8	A1:5-5|A2:8-8
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-873
+# sent_id = it_partut-ud-873
+# text = Siamo ..........
+1	_	_	_
+2	come.01	A0:1|AM-TMP:3	A0:1-1|AM-TMP:3-3
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-874
+# sent_id = it_partut-ud-874
+# text = la ses..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-875
+# sent_id = it_partut-ud-875
+# text = Penso ..........
+1	think.01	A1:7	A1:7-7
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	be.01	A1:4|A2:7|AM-TMP:10	A1:4-4|A2:7-7|AM-TMP:10-10
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-876
+# sent_id = it_partut-ud-876
+# text = Voglio..........
+1	_	_	_
+2-3	_	_	_
+2	present.01	A0:1|A2:3|A1:5	A0:1-1|A2:3-3|A1:5-9
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	use.01	A0:5|A0:8|R-A0:11|A1:14	A0:5-5|A0:8-9|R-A0:11-11|A1:14-14
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	be.01	_	_
+19	base.02	A1:14|A2:22	A1:14-14|A2:22-22
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-877
+# sent_id = it_partut-ud-877
+# text = Il mic..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	give.01	A0:2|AM-LOC:8	A0:2-2|AM-LOC:8-8
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	maintain.01	A0:2|A1:12	A0:2-2|A1:12-13
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	be.01	A1:2|A2:17	A1:2-2|A2:17-17
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-878
+# sent_id = it_partut-ud-878
+# text = Regge ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-879
+# sent_id = it_partut-ud-879
+# text = Sono i..........
+1	be.01	A2:4	A2:4-4
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-880
+# sent_id = it_partut-ud-880
+# text = Genera..........
+1	generate.01	A1:3	A1:3-3
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-881
+# sent_id = it_partut-ud-881
+# text = Dusty ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	like.02	AM-DIS:1|A0:5|A1:7	AM-DIS:1-1|A0:5-5|A1:7-7
+7-8	_	_	_
+7	say.01	A0:5|A1:8	A0:5-5|A1:8-8
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	go.02	A1:11|A4:14	A1:11-11|A4:13-15
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-882
+# sent_id = it_partut-ud-882
+# text = Amo le..........
+1	love.01	A1:3	A1:3-4
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A2:9	A2:9-10
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-883
+# sent_id = it_partut-ud-883
+# text = La mag..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	know.01	A1:8	A1:8-9
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-884
+# sent_id = it_partut-ud-884
+# text = E fran..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	face.01	AM-ADV:2|A1:7	AM-ADV:2-2|A1:7-7
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-885
+# sent_id = it_partut-ud-885
+# text = Spero ..........
+1	hope.01	_	_
+2	_	_	_
+3	dispel.01	A1:5|AM-TMP:7	A1:4-5|AM-TMP:7-7
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-886
+# sent_id = it_partut-ud-886
+# text = La chi..........
+1	_	_	_
+2	call.01	A1:1|A2:3	A1:1-1|A2:3-3
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	concern.02	AM-TMP:11|A0:12|A1:15	AM-TMP:11-11|A0:12-12|A1:15-15
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-887
+# sent_id = it_partut-ud-887
+# text = I fung..........
+1	_	_	_
+2	_	_	_
+3	have.03	A0:2|A1:5	A0:1-2|A1:5-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-888
+# sent_id = it_partut-ud-888
+# text = I fung..........
+1	_	_	_
+2	_	_	_
+3	produce.01	A0:2|A1:5	A0:1-2|A1:4-6
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-889
+# sent_id = it_partut-ud-889
+# text = In eff..........
+1	_	_	_
+2	_	_	_
+3	be.01	AM-DIS:2|A2:5	AM-DIS:2-2|A2:5-5
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-890
+# sent_id = it_partut-ud-890
+# text = Abbiam..........
+1	have.03	AM-MNR:3|A1:6	AM-MNR:3-3|A1:6-6
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-891
+# sent_id = it_partut-ud-891
+# text = I fung..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	come.03	A1:16|A2:20	A1:16-16|A2:20-20
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-892
+# sent_id = it_partut-ud-892
+# text = Ma qui..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	be.01	AM-DIS:1	AM-DIS:1-1
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-893
+# sent_id = it_partut-ud-893
+# text = Dopo a..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	march.01	AM-TMP:3	AM-TMP:2-3
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-894
+# sent_id = it_partut-ud-894
+# text = Ma vi ..........
+1	_	_	_
+2	_	_	_
+3	propose.01	AM-DIS:1|A0:2|A1:5	AM-DIS:1-1|A0:2-2|A1:5-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	be.01	A1:8|A2:17	A1:8-12|A2:17-18
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-895
+# sent_id = it_partut-ud-895
+# text = Fanno ..........
+1	_	_	_
+2	grow.03	A1:4	A1:4-4
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	create.01	A1:8	A1:8-8
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	feed.01	A0:8|R-A0:11|A1:14	A0:8-10|R-A0:11-11|A1:14-14
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-896
+# sent_id = it_partut-ud-896
+# text = E così..........
+1	_	_	_
+2	_	_	_
+3	see.01	AM-DIS:1|AM-DIS:2|AM-LOC:4|A1:6	AM-DIS:1-1|AM-DIS:2-2|AM-LOC:4-4|A1:6-6
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-897
+# sent_id = it_partut-ud-897
+# text = Le spo..........
+1	_	_	_
+2	_	_	_
+3	be.01	_	_
+4	sing.01	A1:2	A1:2-2
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	form.01	A1:7	A1:7-7
+10	_	_	_
+11	move.01	AM-DIR:12	AM-DIR:12-12
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-898
+# sent_id = it_partut-ud-898
+# text = In sol..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	be.01	AM-MOD:8|AM-DIS:11	AM-MOD:8-8|AM-DIS:11-11
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-899
+# sent_id = it_partut-ud-899
+# text = Il mio..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	be.01	_	_
+5	cover.02	A2:3|A1:8	A2:3-3|A1:8-8
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-900
+# sent_id = it_partut-ud-900
+# text = Questa..........
+1	_	_	_
+2	be.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-901
+# sent_id = it_partut-ud-901
+# text = Notate..........
+1	note.02	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	grow.01	A1:7	A1:7-7
+9	_	_	_
+10	gain.02	A1:12	A1:12-12
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	form.01	AM-TMP:14|A1:17	AM-TMP:14-14|A1:17-17
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-902
+# sent_id = it_partut-ud-902
+# text = Noi es..........
+1	_	_	_
+2	regret.01	A0:1|A1:3|AM-MNR:8	A0:1-1|A1:3-3|AM-MNR:8-8
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-903
+# sent_id = it_partut-ud-903
+# text = E il m..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	inspire.01	AM-DIS:1|A0:3|A1:5	AM-DIS:1-1|A0:3-3|A1:5-5
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-904
+# sent_id = it_partut-ud-904
+# text = Ma que..........
+1	_	_	_
+2	_	_	_
+3	be.01	AM-DIS:1|A1:2|AM-ADV:4|A2:5	AM-DIS:1-1|A1:2-2|AM-ADV:4-4|A2:5-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-905
+# sent_id = it_partut-ud-905
+# text = E vi l..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	A1:7|A2:9	A1:7-7|A2:9-9
+9	_	_	_
+10	_	_	_
+11	extend.01	A1:9	A1:9-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-906
+# sent_id = it_partut-ud-906
+# text = E in q..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	form.01	AM-DIS:1|AM-LOC:4|A1:8	AM-DIS:1-1|AM-LOC:2-4|A1:8-8
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	fill.01	A0:8|R-A0:10|A1:13	A0:8-8|R-A0:10-10|A1:13-13
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	absorb.01	A0:8|R-A0:10|A1:16	A0:8-8|R-A0:10-10|A1:16-16
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-907
+# sent_id = it_partut-ud-907
+# text = Sono p..........
+1	be.01	A2:3	A2:2-3
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-908
+# sent_id = it_partut-ud-908
+# text = E dent..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	begin.01	AM-DIS:1|AM-LOC:4|C-A1:7	AM-DIS:1-1|AM-LOC:4-4|C-A1:7-7
+6	_	_	_
+7-8	_	_	_
+7	train.01	A1:10	A1:10-10
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-909
+# sent_id = it_partut-ud-909
+# text = Per pr..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	propose.01	AM-TMP:2|A0:3|AM-TMP:8|A1:15	AM-TMP:2-2|A0:3-3|AM-TMP:6-12|A1:15-16
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	be.01	A1:18	A1:18-18
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-910
+# sent_id = it_partut-ud-910
+# text = Osserv..........
+1-2	_	_	_
+1	observe.01	A1:2	A1:2-2
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	seem.01	A1:8	A1:8-8
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-911
+# sent_id = it_partut-ud-911
+# text = Il mic..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:2|A2:4	A1:2-2|A2:4-4
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-912
+# sent_id = it_partut-ud-912
+# text = Sa che..........
+1	know.01	A1:6	A1:6-6
+2	_	_	_
+3	be.01	A1:2|A2:6	A1:2-2|A2:6-6
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-913
+# sent_id = it_partut-ud-913
+# text = Quando..........
+1	_	_	_
+2	_	_	_
+3	trample.01	AM-TMP:1|A1:2	AM-TMP:1-1|A1:2-2
+4	_	_	_
+5	walk.01	AM-DIR:8	AM-DIR:6-8
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	jump.03	AM-TMP:3|AM-TMP:5|A1:10	AM-TMP:3-3|AM-TMP:5-6|A1:10-10
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	try.01	A0:10|A1:20	A0:10-10|A1:20-20
+19	_	_	_
+20	seize.01	A1:22	A1:22-22
+21	_	_	_
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-914
+# sent_id = it_partut-ud-914
+# text = Quindi..........
+1	_	_	_
+2	_	_	_
+3	believe.01	AM-DIS:1|A0:2|A1:12	AM-DIS:1-1|A0:2-2|A1:11-13
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	be.01	A1:6|A2:12	A1:6-8|A2:12-12
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	be.01	AM-TMP:17	AM-TMP:17-17
+20	prove.01	R-A1:16|AM-TMP:17|A1:22	R-A1:16-16|AM-TMP:17-17|A1:22-22
+21	_	_	_
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-915
+# sent_id = it_partut-ud-915
+# text = Cambia..........
+1	change.01	A1:2	A1:2-2
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	conform.01	AM-MNR:1|A1:5|A1:12	AM-MNR:1-1|A1:5-6|A1:12-12
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-916
+# sent_id = it_partut-ud-916
+# text = È ques..........
+1	be.01	A1:2	A1:2-2
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	see.01	A1:4|AM-LOC:10	A1:4-4|AM-LOC:10-10
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-917
+# sent_id = it_partut-ud-917
+# text = Molti ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	know.01	A0:1|AM-ADV:2|AM-NEG:3|A1:8	A0:1-1|AM-ADV:2-2|AM-NEG:3-3|A1:6-14
+5	_	_	_
+6	be.01	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-918
+# sent_id = it_partut-ud-918
+# text = Arriva..........
+1	arrive.01	AM-TMP:6|A1:10|AM-TMP:17	AM-TMP:5-6|A1:10-10|AM-TMP:17-17
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-919
+# sent_id = it_partut-ud-919
+# text = Com'è ..........
+1	_	_	_
+2	be.01	A2:1|A2:3	A2:1-1|A2:3-3
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-920
+# sent_id = it_partut-ud-920
+# text = Sbrici..........
+1	raise.01	A1:3	A1:3-3
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	be.01	A2:8	A2:8-8
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-921
+# sent_id = it_partut-ud-921
+# text = L'acid..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	be.01	_	_
+5	compose.01	A1:2|A2:8	A1:2-3|A2:6-8
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	unite.01	A1:8|AM-MNR:12	A1:8-8|AM-MNR:12-12
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-922
+# sent_id = it_partut-ud-922
+# text = Quindi..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	seize.01	AM-DIS:1|A0:3|A1:9|AM-MNR:11	AM-DIS:1-1|A0:2-6|A1:9-9|AM-MNR:10-11
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-923
+# sent_id = it_partut-ud-923
+# text = E anch..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	extract.01	AM-DIS:1|A0:5|A1:10|A2:13	AM-DIS:1-1|A0:5-5|A1:10-10|A2:13-13
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	form.01	A1:13|R-A1:14	A1:13-13|R-A1:14-14
+18	_	_	_
+19	be.01	R-A1:14|A2:20	R-A1:14-14|A2:20-20
+20	escape.01	R-A1:14|A0:23	R-A1:14-14|A0:23-24
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-924
+# sent_id = it_partut-ud-924
+# text = Questo..........
+1	_	_	_
+2	be.01	_	_
+3	discover.01	A1:1|AM-TMP:7	A1:1-1|AM-TMP:4-10
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-925
+# sent_id = it_partut-ud-925
+# text = Questa..........
+1	_	_	_
+2	be.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-926
+# sent_id = it_partut-ud-926
+# text = È stat..........
+1	_	_	_
+2	be.01	_	_
+3	release.01	AM-TMP:6|AM-LOC:10	AM-TMP:6-7|AM-LOC:8-10
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-927
+# sent_id = it_partut-ud-927
+# text = 420 mi..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	exist.01	AM-TMP:5|A1:9	AM-TMP:1-5|A1:9-9
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-928
+# sent_id = it_partut-ud-928
+# text = Si chi..........
+1	_	_	_
+2	call.01	A1:1|A2:3	A1:1-1|A2:3-3
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-929
+# sent_id = it_partut-ud-929
+# text = Un Pro..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	stay.01	A1:2|A3:5	A1:2-2|A3:5-5
+5	_	_	_
+6	_	_	_
+7	be.01	A1:2|A2:8	A1:2-2|A2:8-8
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-930
+# sent_id = it_partut-ud-930
+# text = Le pia..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	come.01	A1:2|AM-TMP:11|AM-NEG:13|A2:17	A1:2-4|AM-TMP:9-11|AM-NEG:13-13|A2:15-17
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-931
+# sent_id = it_partut-ud-931
+# text = Tutti ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	be.01	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-932
+# sent_id = it_partut-ud-932
+# text = e ques..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-933
+# sent_id = it_partut-ud-933
+# text = Esso è..........
+1	_	_	_
+2	be.01	_	_
+3	exist.01	A1:1|AM-TMP:7|AM-TMP:9	A1:1-1|AM-TMP:4-9|AM-TMP:4-9
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-934
+# sent_id = it_partut-ud-934
+# text = Una qu..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	be.01	_	_
+7	dig.01	A1:2|AM-LOC:9	A1:2-2|AM-LOC:9-9
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-935
+# sent_id = it_partut-ud-935
+# text = la luc..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	cloud.01	A1:2	A1:2-3
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	inherit.01	A0:8|A1:11	A0:8-8|A1:11-11
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-936
+# sent_id = it_partut-ud-936
+# text = Quegli..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	be.01	_	_
+10	reward.01	A1:2|AM-CAU:19	A1:2-6|AM-CAU:19-19
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-937
+# sent_id = it_partut-ud-937
+# text = Quindi..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	exist.01	AM-LOC:9|A1:12	AM-LOC:9-9|A1:12-12
+12	_	_	_
+13	_	_	_
+14	think.01	AM-DIS:1|A1:17	AM-DIS:1-1|A1:17-17
+15	be.01	A1:3|A2:17	A1:3-5|A2:17-17
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-938
+# sent_id = it_partut-ud-938
+# text = Nella ..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	AM-LOC:4|AM-ADV:6|A1:9	AM-LOC:4-4|AM-ADV:6-6|A1:9-9
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-939
+# sent_id = it_partut-ud-939
+# text = Il più..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	live.01	A1:4|AM-LOC:12	A1:4-4|AM-LOC:12-13
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-940
+# sent_id = it_partut-ud-940
+# text = era am..........
+1	be.01	A2:2|A1:5	A2:2-2|A1:5-5
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-941
+# sent_id = it_partut-ud-941
+# text = Il più..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	A1:4|A2:10	A1:4-5|A2:10-10
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-942
+# sent_id = it_partut-ud-942
+# text = Il mic..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	produce.01	A0:2|AM-LOC:7|A1:11	A0:1-2|AM-LOC:7-7|A1:11-11
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	penetrate.01	A1:11|AM-MNR:17	A1:11-11|AM-MNR:17-17
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	leak.01	A1:22	A1:22-22
+21	_	_	_
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-943
+# sent_id = it_partut-ud-943
+# text = Siamo ..........
+1	_	_	_
+2	be.01	A1:1	A1:1-1
+3	involve.01	A1:1|A2:6	A1:1-1|A2:4-6
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-944
+# sent_id = it_partut-ud-944
+# text = E sto ..........
+1	_	_	_
+2	be.01	_	_
+3	_	_	_
+4-5	_	_	_
+4	show.01	A2:5|A1:12	A2:5-5|A1:11-14
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	allow.01	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	save.02	A1:16	A1:16-16
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-945
+# sent_id = it_partut-ud-945
+# text = Ho lav..........
+1	_	_	_
+2	work.01	A0:1|A3:5	A0:1-1|A3:5-10
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1025
+# sent_id = it_partut-ud-1025
+# text = Gli ec..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	have.03	_	_
+15	predict.01	A0:2|A1:17	A0:2-8|A1:17-17
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	sustain.01	A0:2|A1:26	A0:2-8|A1:24-30
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	affect.01	A0:17|R-A0:23|AM-MOD:24|AM-MOD:25|A1:28	A0:17-17|R-A0:23-23|AM-MOD:24-24|AM-MOD:25-25|A1:28-29
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30-31	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33-34	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1039
+# sent_id = it_partut-ud-1039
+# text = In ter..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	be.01	A1:6|A2:11	A1:6-6|A2:11-11
+11	_	_	_
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1046
+# sent_id = it_partut-ud-1046
+# text = È inge..........
+1	be.01	A2:2|A1:12	A2:2-2|A1:12-13
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	think.01	A0:7|A1:18	A0:7-7|A1:16-18
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	adapt.01	A0:16|A1:21|AM-PRP:23	A0:16-17|A1:21-21|AM-PRP:23-25
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	exist.01	A1:25|AM-LOC:28	A1:25-25|AM-LOC:28-28
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1063
+# sent_id = it_partut-ud-1063
+# text = Ma il ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	be.01	AM-DIS:1|A1:3	AM-DIS:1-1|A1:3-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	protect.01	A1:7|A0:11	A1:7-7|A0:11-11
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	be.01	A1:7	A1:7-9
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	develop.01	A1:24	A1:24-24
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1085
+# sent_id = it_partut-ud-1085
+# text = E' ora..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	acknowledge.01	AM-TMP:2|A0:5|A1:9	AM-TMP:2-2|A0:5-6|A1:9-10
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	play.02	A1:9|R-A1:11|A0:13|AM-MOD:15|AM-PRP:19	A1:9-9|R-A1:11-11|A0:13-14|AM-MOD:15-15|AM-PRP:19-19
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	sustain.01	A1:21	A1:21-21
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	improve.01	A0:5|A0:13|AM-MOD:15|A1:25	A0:5-6|A0:13-14|AM-MOD:15-15|A1:25-26
+24	_	_	_
+25	_	_	_
+26-27	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1101
+# sent_id = it_partut-ud-1101
+# text = Andy H..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	inherit.01	A1:7|A0:13	A1:7-7|A0:12-13
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	dispute.01	A0:2|A1:18	A0:1-5|A1:18-23
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	indicate.01	A0:2|A1:29	A0:1-5|A1:29-41
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	reinvigorate.01	_	_
+33	_	_	_
+34	_	_	_
+35	limit.01	A1:37	A1:37-39
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1112
+# sent_id = it_partut-ud-1112
+# text = Le rag..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A1:2|AM-NEG:6|A2:8	A1:2-3|AM-NEG:6-6|A2:8-8
+8	_	_	_
+9	_	_	_
+10	establish.01	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	be.01	A1:14|A2:19	A1:14-17|A2:19-19
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1117
+# sent_id = it_partut-ud-1117
+# text = Queste..........
+1	_	_	_
+2	_	_	_
+3	have.03	A0:2|A1:5	A0:1-2|A1:5-9
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	recruit.01	A0:2|A1:8	A0:2-2|A1:8-9
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	pay.01	AM-TMP:10|A0:12|AM-MOD:14|A1:16	AM-TMP:10-10|A0:11-13|AM-MOD:14-14|A1:16-18
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1127
+# sent_id = it_partut-ud-1127
+# text = Ma se ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	continue.01	A1:4|C-A1:7	A1:4-4|C-A1:7-7
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	remain.01	AM-DIS:1|AM-ADV:5|AM-MOD:20|A3:23|AM-TMP:27	AM-DIS:1-1|AM-ADV:4-8|AM-MOD:20-20|A3:22-24|AM-TMP:26-27
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1135
+# sent_id = it_partut-ud-1135
+# text = Second..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	manifest.01	AM-ADV:2|A1:5|AM-MOD:7|A2:11	AM-ADV:1-2|A1:5-6|AM-MOD:7-7|A2:10-11
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1203
+# sent_id = it_partut-ud-1203
+# text = l'Amer..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	adopt.01	A0:2|AM-MOD:3|A1:7	A0:2-2|AM-MOD:3-3|A1:7-9
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	move.01	A2:17	A2:17-17
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	move.01	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	base.02	A1:23|A2:27	A1:23-23|A2:27-27
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29-30	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1227
+# sent_id = it_partut-ud-1227
+# text = Come s..........
+1	_	_	_
+2	be.01	AM-MNR:1	AM-MNR:1-1
+3	allocate.01	AM-MNR:1|AM-MOD:2|A1:5	AM-MNR:1-1|AM-MOD:2-2|A1:5-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31-32	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	be.01	AM-LOC:16|R-AM-LOC:20|A1:22|AM-ADV:35	AM-LOC:16-16|R-AM-LOC:20-20|A1:22-25|AM-ADV:35-36
+35	_	_	_
+36	_	_	_
+37	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1239
+# sent_id = it_partut-ud-1239
+# text = Una ta..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	alleviate.01	A0:2|A1:9|AM-MNR:13	A0:2-4|A1:9-10|AM-MNR:13-13
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	alleviate.01	A0:2|A1:18	A0:2-4|A1:18-20
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1276
+# sent_id = it_partut-ud-1276
+# text = Ma qua..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	affect.01	AM-TMP:2|A0:4|A1:8	AM-TMP:2-2|A0:4-4|A1:8-8
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	become.01	AM-DIS:1|AM-TMP:5|A1:14|A2:18	AM-DIS:1-1|AM-TMP:2-11|A1:13-14|A2:18-18
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1337
+# sent_id = it_partut-ud-1337
+# text = Le don..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	enter.01	A0:2	A0:2-9
+11	_	_	_
+12	remain.01	A1:2|A3:15|AM-MNR:20	A1:2-6|A3:13-18|AM-MNR:20-20
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1343
+# sent_id = it_partut-ud-1343
+# text = Di fat..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	announce.01	A1:6|AM-TMP:18	A1:6-7|AM-TMP:14-18
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	aim.01	AM-DIS:2|A0:6|A1:22	AM-DIS:2-2|A0:5-8|A1:22-35
+21	_	_	_
+22	raise.01	A1:24	A1:24-27
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29-30	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+46	_	_	_
+47	_	_	_
+48	_	_	_
+49	_	_	_
+50	_	_	_
+51	_	_	_
+52	_	_	_
+53	_	_	_
+54	_	_	_
+55	_	_	_
+56	_	_	_
+57-58	_	_	_
+57	_	_	_
+58	_	_	_
+59	_	_	_
+60	_	_	_
+61	_	_	_
+62	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1404
+# sent_id = it_partut-ud-1404
+# text = Il FMI..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	rely.01	A1:2|A2:7	A1:2-2|A2:7-7
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	represent.01	A1:11	A1:11-11
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1460
+# sent_id = it_partut-ud-1460
+# text = Il pro..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	choose.01	A0:5|AM-MNR:13|A1:16	A0:5-6|AM-MNR:13-13|A1:16-17
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26-27	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	maintain.01	A1:34	A1:34-34
+33	_	_	_
+34	_	_	_
+35	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1499
+# sent_id = it_partut-ud-1499
+# text = In bas..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1521
+# sent_id = it_partut-ud-1521
+# text = Solo a..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	base.02	A1:4|A2:10	A1:4-4|A2:10-10
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	understand.01	AM-MNR:4|AM-MOD:13|AM-MNR:16|A1:18	AM-MNR:4-5|AM-MOD:13-13|AM-MNR:16-16|A1:18-19
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1541
+# sent_id = it_partut-ud-1541
+# text = È rino..........
+1	be.01	A2:2	A2:2-2
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	be.01	A1:6|R-A1:9|A2:12	A1:6-7|R-A1:9-9|A2:11-12
+11	_	_	_
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1575
+# sent_id = it_partut-ud-1575
+# text = Balzac..........
+1	_	_	_
+2	have.03	A0:1|A1:3	A0:1-1|A1:3-3
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	adapt.01	A0:1|A2:9	A0:1-1|A2:9-10
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1579
+# sent_id = it_partut-ud-1579
+# text = Il nar..........
+1	_	_	_
+2	_	_	_
+3	say.01	A0:2	A0:1-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1632
+# sent_id = it_partut-ud-1632
+# text = Verso ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	drop.01	A1:19	A1:18-23
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	transport.01	AM-LOC:33	AM-LOC:33-33
+30	_	_	_
+31	sell.01	AM-LOC:33	AM-LOC:32-33
+32	_	_	_
+33	_	_	_
+34	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1634
+# sent_id = it_partut-ud-1634
+# text = Quando..........
+1	_	_	_
+2	_	_	_
+3	come.01	AM-TMP:1|A1:5	AM-TMP:1-1|A1:5-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	run.02	AM-TMP:3|AM-LOC:10	AM-TMP:3-5|AM-LOC:10-10
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	declare.01	AM-TMP:3	AM-TMP:3-5
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1640
+# sent_id = it_partut-ud-1640
+# text = Nonost..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:2|A2:5	A1:2-2|A2:5-5
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	represent.01	AM-ADV:5|A0:10|A1:13	AM-ADV:5-5|A0:10-10|A1:12-15
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	be.01	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26-27	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31-32	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1677
+# sent_id = it_partut-ud-1677
+# text = Le Cou..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	tell.01	A0:3|A1:16	A0:1-13|A1:15-24
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1706
+# sent_id = it_partut-ud-1706
+# text = La lor..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	allow.01	A0:3|A1:8	A0:3-3|A1:8-11
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1734
+# sent_id = it_partut-ud-1734
+# text = Mentre..........
+1	_	_	_
+2	admire.01	A1:5|A0:8	A1:5-5|A0:8-8
+3	_	_	_
+4	draw.02	A1:5|A2:8|A0:17	A1:5-5|A2:8-9|A0:17-17
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	try.01	AM-ADV:2|A0:17|A1:20	AM-ADV:1-10|A0:17-17|A1:19-23
+19	_	_	_
+20	present.01	A0:17|A1:22|AM-MNR:26	A0:17-17|A1:22-23|AM-MNR:26-27
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27-28	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1738
+# sent_id = it_partut-ud-1738
+# text = Alcuni..........
+1	_	_	_
+2	_	_	_
+3	see.01	A0:2|A1:5|A2:9	A0:1-2|A1:5-7|A2:9-9
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	seek.01	A0:15|R-A0:24|A1:27	A0:15-15|R-A0:24-24|A1:27-27
+26	_	_	_
+27	explain.01	R-A0:24|A1:29	R-A0:24-24|A1:29-30
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	connect.01	AM-MNR:32|A2:36	AM-MNR:32-32|A2:36-36
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1746
+# sent_id = it_partut-ud-1746
+# text = "Allo ..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	represent.01	AM-TMP:5|A0:8	AM-TMP:2-5|A0:8-8
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1765
+# sent_id = it_partut-ud-1765
+# text = Come p..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	write.01	AM-PRD:2|A0:20|A1:27	AM-PRD:1-2|A0:20-20|A1:22-29
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	be.01	_	_
+27	write.01	A1:25	A1:25-25
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1808
+# sent_id = it_partut-ud-1808
+# text = All'et..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	marry.01	AM-TMP:3|A1:10	AM-TMP:2-6|A1:9-10
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	have.03	A0:10|A1:17	A0:10-10|A1:16-17
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1820
+# sent_id = it_partut-ud-1820
+# text = Shakes..........
+1	_	_	_
+2	be.01	A1:1|A2:4	A1:1-1|A2:4-4
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	respect.01	A1:7|AM-TMP:12	A1:7-7|AM-TMP:12-12
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	reach.01	A0:16|AM-NEG:17|A1:20|AM-TMP:26	A0:15-16|AM-NEG:17-17|A1:20-21|AM-TMP:22-26
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1826
+# sent_id = it_partut-ud-1826
+# text = La sua..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	remain.01	A1:4|A3:8	A1:4-6|A3:8-8
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1859
+# sent_id = it_partut-ud-1859
+# text = Nel 15..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	build.01	AM-TMP:3|A0:6|A1:15	AM-TMP:1-3|A0:6-9|A1:15-15
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	call.01	A0:15|R-A0:17|A1:19	A0:15-15|R-A0:17-17|A1:19-19
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1861
+# sent_id = it_partut-ud-1861
+# text = Testim..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	show.01	A0:1|A1:18	A0:1-11|A1:15-19
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	make.02	A0:15|A1:19	A0:15-15|A1:19-19
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1874
+# sent_id = it_partut-ud-1874
+# text = Nel 16..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	travel.01	AM-TMP:3|AM-TMP:8|A4:10|AM-LOC:17	AM-TMP:1-3|AM-TMP:8-8|A4:10-10|AM-LOC:17-17
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1875
+# sent_id = it_partut-ud-1875
+# text = Qui af..........
+1	_	_	_
+2	rent.01	AM-LOC:1|A1:3|A0:6	AM-LOC:1-1|A1:3-3|A0:6-6
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	call.01	A1:6|A2:10	A1:5-7|A2:9-10
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1887
+# sent_id = it_partut-ud-1887
+# text = Le sue..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A1:5|A2:9	A1:5-6|A2:9-9
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1926
+# sent_id = it_partut-ud-1926
+# text = "esser..........
+1	_	_	_
+2	be.01	_	_
+3	_	_	_
+4	_	_	_
+5	be.01	AM-NEG:4	AM-NEG:4-4
+6	_	_	_
+7	_	_	_
+8	be.01	A1:7	A1:7-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1955
+# sent_id = it_partut-ud-1955
+# text = Nel 16..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	write.01	AM-TMP:3|A0:7|A1:15	AM-TMP:1-3|A0:5-7|A1:11-20
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	be.01	_	_
+15	present.01	A1:12|AM-MNR:18	A1:11-12|AM-MNR:18-18
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1958
+# sent_id = it_partut-ud-1958
+# text = La rac..........
+1	_	_	_
+2	_	_	_
+3	contain.01	A0:2|A1:5	A0:1-2|A1:4-10
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-1967
+# sent_id = it_partut-ud-1967
+# text = Li ded..........
+1	_	_	_
+2	dedicate.01	A1:1|A2:5	A1:1-1|A2:3-10
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-2031
+# sent_id = it_partut-ud-2031
+# text = Questi..........
+1	_	_	_
+2	include.01	A2:1|A1:4	A2:1-1|A1:4-12
+3	_	_	_
+4	_	_	_
+5	write.01	A1:4|A0:8	A1:4-4|A0:6-12
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	be.01	R-A1:16|R-A1:17|A2:19	R-A1:16-17|R-A1:16-17|A2:19-19
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-2035
+# sent_id = it_partut-ud-2035
+# text = Ai tem..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	be.01	AM-TMP:3|A1:8|A2:18	AM-TMP:3-4|A1:8-15|A2:18-18
+17	_	_	_
+18	standardize.01	AM-TMP:3|A1:8|AM-EXT:17	AM-TMP:3-5|A1:8-15|AM-EXT:17-17
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	be.01	AM-NEG:21|AM-TMP:24	AM-NEG:21-21|AM-TMP:24-24
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30-31	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	help.01	A0:29|A1:36	A0:29-30|A1:36-36
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-2065
+# sent_id = it_partut-ud-2065
+# text = Negli ..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	replace.01	AM-TMP:3|A0:7|A1:14	AM-TMP:1-4|A0:7-11|A1:14-14
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	pave.02	AM-TMP:3|A0:7|A1:18|A2:21	AM-TMP:1-4|A0:7-11|A1:18-18|A2:21-26
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-2079
+# sent_id = it_partut-ud-2079
+# text = A dici..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	marry.01	AM-TMP:3|A1:8	AM-TMP:2-3|A1:7-8
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	be.01	A1:8|R-A1:10|A2:12	A1:7-8|R-A1:10-10|A2:12-12
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Italian-ParTUT/it_partut-ud-dev.conllu it_partut-ud-2090
+# sent_id = it_partut-ud-2090
+# text = Nel ta..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	describe.01	AM-TMP:5|A0:8|A1:10|A2:18	AM-TMP:1-5|A0:7-8|A1:10-16|A2:17-18
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	call.01	A0:23|A1:27	A0:23-23|A1:26-27
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	use.01	A1:30|AM-TMP:34	A1:30-32|AM-TMP:34-34
+36	_	_	_
+
